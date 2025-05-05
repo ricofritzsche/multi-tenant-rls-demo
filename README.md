@@ -1,7 +1,7 @@
 # PostgreSQL Multi-Tenancy with Row-Level Security (RLS)
 
 This repository provides a complete SQL script to set up a multi-tenant database in PostgreSQL using **Row-Level Security (RLS)**. It demonstrates how RLS enforces tenant isolation at the database level, ensuring that each tenant can only access their own data. This approach is ideal for SaaS applications, as it centralizes security, reduces the risk of data leaks, and simplifies application code.
-Read the [full article](http://ricofritzsche.me).
+Read the [full article](https://ricofritzsche.me/mastering-postgresql-row-level-security-rls-for-rock-solid-multi-tenancy/).
 
 ## Why Use Row-Level Security for Multi-Tenancy?
 
